@@ -1,5 +1,6 @@
 # Artificial Neuron
 This is the code for the 1st practical task for "Dirbtinio intelekto pagrindai" Vilnius University course.
+The code implemnts basic perceptron model and tries to "fit" it to the hard-coded data via random weight search.
 
 ## Instructions
 1.) You mush install Rust programming language. Follow the guide [here](https://www.rust-lang.org/tools/install)  
